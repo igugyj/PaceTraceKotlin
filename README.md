@@ -16,12 +16,16 @@
 - **Android SDK** 34
 - **Gradle** 8.2+
 
-## Quick Start
+## Downloads
+
+Pre-built APKs are available on the [Releases](https://github.com/igugyj/PaceTraceKotlin/releases) page. Download and install directly on your device.
+
+## Build from Source
 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PaceTraceKotlin.git
+git clone https://github.com/igugyj/PaceTraceKotlin.git
 ```
 
 2. Configure API keys:
@@ -33,6 +37,8 @@ cp secrets.properties.example secrets.properties
 Edit `secrets.properties` with your actual `APPKEY` and `APPSECRET`.
 
 3. Open the project in Android Studio, sync Gradle, then run on a device or emulator.
+
+Developers are welcome to fork, modify, and build their own versions.
 
 ## secrets.properties
 
