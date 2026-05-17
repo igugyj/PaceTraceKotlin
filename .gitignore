@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+app/build/
+app/release/
+local.properties
+secrets.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android
+/captures
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.class
+
+# Misc
+*.log
+*.zip
