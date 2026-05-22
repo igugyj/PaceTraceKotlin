@@ -1,5 +1,10 @@
 # PaceTraceKotlin
 
+![Static Badge](https://img.shields.io/badge/AI-100%25-68c0fd?style=plastic)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-1c8139?style=plastic)
+![Language](https://img.shields.io/badge/Language-Kotlin-a97bff?style=plastic)
+![Release](https://img.shields.io/github/v/release/igugyj/PaceTraceKotlin?style=plastic)
+
 > Android client for PaceTrace -- a university sports run tracking & club sign-in assistant.
 
 ## Features
